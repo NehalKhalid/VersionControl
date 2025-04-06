@@ -3,3 +3,9 @@ nav{
     color: white;
     padding: 10px;
 }
+
+#slider{
+    width: 100%;
+    height: 300px;
+    background-color: #f4f4f4;
+}
